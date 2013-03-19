@@ -1,1 +1,1 @@
-# Ruby on Rails Tutorial: первое приложение
+# Ruby on Rails Tutorial: первое приложение (Совсем первое!)
